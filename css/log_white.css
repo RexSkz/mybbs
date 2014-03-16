@@ -1,0 +1,29 @@
+﻿*{
+	font-family: "Yahei Consolas Hybrid", "Consolas", "SimHei", "Trebuchet MS", sans-serif !important;
+}
+body{
+	color:black;
+	background-color:#BBB;
+}
+input{ width:82px; }
+span{ color:black; }
+.text{
+	background-color:#BBB;
+	color:black;
+	border:1px solid black;
+	margin:2px auto;
+}
+.button{
+	background-color:#BBB;
+	color:black;
+	border:1px solid black;
+	margin-top:8px;
+	margin-left:0;
+	margin-right:0;
+}
+.button:hover{
+	background-color:#999;
+}
+.userprivilege{
+	color:#666;
+}

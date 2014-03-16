@@ -1,0 +1,89 @@
+body{
+	background:url("../images/bg_black.png") fixed;
+	color:white;
+}
+div{color:white;}
+a{color:white;}
+.fancy:hover{color:#999;}
+.text{
+	background-color:#444;
+	color:white;
+	border:1px solid white;
+}
+.button{
+	background-color:#444;
+	color:white;
+	border:1px solid white;
+}
+.button:hover{background-color:#666;}
+#whole{
+	border:1px solid white;
+	background-color:#333;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color=#111,direction=120,strength=2);
+	-moz-box-shadow: 5px 5px 5px #111;
+	-webkit-box-shadow: 5px 5px 5px #111;
+	box-shadow:5px 5px 5px #111;
+}
+#header{background-color:#333;}
+#login{
+	color:white;
+	background-color:#444;
+}
+#banner{background-color:#222;}
+.banner_button{background-color:#222;}
+.banner_button:hover{background-color:#444;}
+.banner_button_current{background-color:#444;}
+#main{background-color:#333;}
+#footer{background-color:#222;}
+.postlist{background-color:#444;}
+.postlist:hover{background-color:#555;}
+.postlistauthor{color:#BBB;}
+.postlisttime{color:#BBB;}
+.post{background-color:#383838;}
+.post:hover{background-color:#444;}
+.postauthor{background-color:#555;}
+.posttime{color:#BBB;}
+.doposttitle{
+	background-color:#444;
+	color:white;
+	border:1px solid white;
+}
+.dopostcontent{
+	background-color:#444;
+	color:white;
+	border:1px solid white;
+}
+.controls a{color:#BBB;}
+.controls a:hover{background-color:#666;}
+.indexpostlist{background-color:#444;}
+.indexpostlist:hover{background-color:#555;}
+.indexfirstfloor{color:#BBB;}
+.deleteuserlist{background-color:#444;}
+.deleteuserlist:hover{background-color:#555;}
+.floorssub{
+	border:1px solid gray;
+	background-color:#444;
+	color:#BBB;
+}
+.floorssubcurrentpage{
+	border:1px solid gray;
+	background-color:#555;
+}
+#indexswitchercontainer{border:1px solid white;}
+#indexswitcherarrowleft{
+	background:url("../images/left_dark.png") no-repeat center center;
+	background-color:#5F5F5F;
+}
+#indexswitcherarrowleft:hover{
+	background:url("../images/left_light.png") no-repeat center center;
+	background-color:#DFDFDF;
+}
+#indexswitcherarrowright{
+	background:url("../images/right_dark.png") no-repeat center center;
+	background-color:#5F5F5F;
+}
+#indexswitcherarrowright:hover{
+	background:url("../images/right_light.png") no-repeat center center;
+	background-color:#DFDFDF;
+}
+.pwdStrength{border:1px solid white;}
